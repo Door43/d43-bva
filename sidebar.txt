@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bva:home|Door43 (bva)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bva|d43-bva repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bva/archive/master.zip|d43-bva.zip]]
+
+**Recent Changes**
+{{changes>ns = bva}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bva|Ethnologue data]]
+
